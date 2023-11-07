@@ -1,0 +1,24 @@
+.valorNegativo{
+    color:red;
+}
+.valorPositivo{
+    color:green;
+}
+
+/* botão de adicionar valor */
+#circulo{
+    width: 100px;
+    height: 100px; 
+    background-color: green;
+    border-radius: 50%;
+
+}
+#mais{
+    color: white;
+    font-size: 60px;
+    margin-top: 0%;
+}
+
+a{
+text-decoration: none;
+}
